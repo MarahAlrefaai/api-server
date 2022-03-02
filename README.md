@@ -3,13 +3,13 @@ Dynamic API Phase 3: Add Database Abstraction and Associations to your API  Toda
 
 
 ### pull  
-[title](https://github.com/MarahAlrefaai/api-server/pull/1)
+[pull](https://github.com/MarahAlrefaai/api-server/pull/1)
 ---
 ### action 
-[title](https://github.com/MarahAlrefaai/api-server/actions)
+[action](https://github.com/MarahAlrefaai/api-server/actions)
 ---
 ### heroku 
-[title](https://marah-adv-api-server4.herokuapp.com/)
+[heroku](https://marah-adv-api-server4.herokuapp.com/)
 ---
 
 
